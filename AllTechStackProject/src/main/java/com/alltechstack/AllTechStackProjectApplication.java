@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AllTechStackProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AllTechStackProjectApplication.class, args); 
+		SpringApplication.run(AllTechStackProjectApplication.class, args);
 	}
 
 }
